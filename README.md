@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Muchu</h1>
-<h3 align="center">AI/ML Engineer | Prompt Engineer | Generative AI Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Prompt Engineering | Generative AI Enthusiast</h3>
 
 ---
 
