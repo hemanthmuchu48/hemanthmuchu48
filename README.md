@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 
 ### Languages
-Python | C | SQL | HTML | CSS | JavaScript
+Python | C | SQL | HTML | CSS 
 
 ### AI/ML
 Generative AI  
